@@ -6,4 +6,4 @@ The UWP sample code works as expected - as the user hovers over the GridSplitter
 
 This issue has persisted from Preview 3.
 
-For more details about the WinUI 3 Preview 4 issue, go to the issue [here](https://github.com/microsoft/microsoft-ui-xaml/issues/).
+For more details about the WinUI 3 Preview 4 issue, go to the issue [here](https://github.com/microsoft/microsoft-ui-xaml/issues/4201).
