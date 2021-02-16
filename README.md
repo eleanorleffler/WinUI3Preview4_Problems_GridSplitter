@@ -1,4 +1,4 @@
-# WinUI3Preview3_Problems_GridSplitter
+# WinUI3Preview4_Problems_GridSplitter
 
 This repository contains two solutions with sample code demonstrating the difference between the GridSplitter in UWP and WinUI3 Preview 4 Desktop.
 
